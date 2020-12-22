@@ -1,6 +1,20 @@
 # Finding the goals to it all
 
-### Topics
+# Solstice
+### 2020-12-21
+
+The shortest day of the year is always good. I am very glad the days are getting longer from here on out.
+
+> "How about a quote?"" - me
+
+```
+import keras
+
+```
+
+
+# Keyboard
+
 
 So I got a new keyboard which is very clicky. It has been so many years since I have used a proper keyboard that it is very fun to get back into typing. The laptops and other machines I have had for years have certainly limited my options for key travel and general premium-ness when it comes to typing.
 
