@@ -1,4 +1,8 @@
-# Finding the goals to it all
+# Thoughts
+### 2020-12-26
+
+![img](imgs/sketch1609032870407.png)
+
 
 # Solstice
 ### 2020-12-21
